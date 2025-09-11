@@ -1,29 +1,49 @@
-# Hi There! 👋 I'm Aditya Gautam  
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Aditya+Gautam;BTech+CSE+(AIML)+Student+@+GJUST;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
-## 🚀 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science Engineering (AI & ML)** at **Guru Jambheshwar University of Science & Technology (GJUST)**  
-- 🛠 Building mini projects and learning how to create **real-world solutions** 
-- 📝 Documenting my coding journey here on GitHub  
-- ☕️ Currently learning **JAVA and DSA**  
-
----
-
-## 🛠 Languages and Tools  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)
+<h1 align="center">👋 I'm Aditya Gautam</h1>
+<h3 align="center">💻 Passionate Developer | 🎓 CSE (AI & ML) Student @ GJUST</h3>
 
 ---
 
-## 📊 GitHub Stats  
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAdityaGautam&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdityaGautam&layout=compact&theme=tokyonight)  
+### 👨‍💻 About Me
+- 🎓 Pursuing **BTech in Computer Science Engineering (AI & ML)** at **Guru Jambheshwar University of Science & Technology (GJUST)**
+- 🛠️ Building mini projects and learning how to create **real-world solutions**
+- 📝 Documenting my coding journey here on GitHub
+- ☕ Currently learning **Java and DSA**
 
 ---
 
-## 🌐 Connect With Me  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adityagautam7281@gmail.com)  
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TheAdityaGautam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdityaGautam&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:adityagautam7281@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
