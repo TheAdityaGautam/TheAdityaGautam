@@ -1,18 +1,18 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Aditya+Gautam;BTech+AIML+Student+@+GJUST;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Aditya+Gautam;BTech+AIML+Student+@+GJUST;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 I'm Aditya Gautam</h1>
-<h3 align="center">💻 Passionate Developer | 🎓 CSE (AI & ML) Student @ GJUST</h3>
+<h3 align="center">💻 Passionate Developer | 🎓 AIML Student @ GJUST</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing **BTech in Computer Science Engineering (AI & ML)** at **Guru Jambheshwar University of Science & Technology (GJUST)**
+- 🎓 Pursuing **BTech in Artificial Intelligence & Machine Learning** at **Guru Jambheshwar University of Science & Technology (GJUST)**
 - 🛠️ Building mini projects and learning how to create **real-world solutions**
 - 📝 Documenting my coding journey here on GitHub
-- ☕ Currently learning **Java and DSA**
+- ☕ Currently learning **Java**
 
 ---
 
