@@ -43,9 +43,9 @@ Java + MySQL based application for managing hostel records.
 
 ### 🩺 Diabetes Prediction System
 
-AI-based Machine Learning web application that predicts whether a person is diabetic or not using health-related medical data.
+AI-based Machine Learning web application that predicts whether a person is diabetic or not using medical health parameters.
 
-🔗 https://github.com/TheAdityaGautam/CodeAlpha_DiseasePredictionfromMedicalData
+🔗https://github.com/TheAdityaGautam/CodeAlpha_Tasks/tree/main/CodeAlpha_Task1_DiseasePredictionfromMedicalData
 
 ---
 
