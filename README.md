@@ -41,10 +41,23 @@ Java + MySQL based application for managing hostel records.
 
 ---
 
+### 🩺 Diabetes Prediction System
+
+AI-based Machine Learning web application that predicts whether a person is diabetic or not using health-related medical data.
+
+🔗 https://github.com/TheAdityaGautam/CodeAlpha_DiseasePredictionfromMedicalData
+
+---
+
 ## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
